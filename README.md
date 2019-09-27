@@ -8,7 +8,11 @@ Also using [react-native-svg](https://github.com/react-native-community/react-na
 ### Run on your device
 
 ```git clone https://github.com/Aswinc97/3DPit-react-native.git```
+
 ```npm install```
+
 ```react-native run-android```
+
 or
+
 ```react-native run-ios```
